@@ -47,14 +47,14 @@ Group_6
 --------
 
 Member 1:
-Member 2:JITHIN JOY
+Member 2:
 Member 3:
 
 Group_7
 --------
 
 Member 1:
-Member 2:
+Member 2:JITHIN JOY
 Member 3:
 
 Group_8
