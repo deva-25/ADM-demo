@@ -60,7 +60,7 @@ Member 3:
 Group_8
 --------
 
-Member 1: Rahul R
+Member 1:
 Member 2:
 Member 3:
 
