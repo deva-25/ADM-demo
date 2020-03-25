@@ -1,4 +1,4 @@
-Teachers
+thTeachers
 ********
 
 Teacher 1 : Tomsy Paul
@@ -109,7 +109,7 @@ Member 3:
 Group_15
 --------
 
-Member 1:
+Member 1:KEERTHI R
 Member 2:LEKSHMI MOHAN
 Member 3:
 
