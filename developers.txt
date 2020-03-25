@@ -10,148 +10,148 @@ Groups
 Group_1
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1: 
+Member 2: Adithyu Asok
+Member 3: AJITH KUMAR M S
 
 Group_2
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1: AKASH.M.VADHYAR
+Member 2:Akhil Balakrishnan
+Member 3:AKHIL SUDHAN
 
 Group_3
 --------
 
-Member 1:
-Member 2:
-Member 3:
-Member 4:
+Member 1: ALBERT P BABU
+Member 2: ARUN K BABU
+Member 3: ALBIN C SEBASTIAN
+Member 4: BOBIN MATHEW MURIKKATTU
 
 Group_4
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1: DEVA KISHORE M J
+Member 2:DONLINE JOY
+Member 3:FEBIN JACS GEORGE
+
 
 Group_5
 --------
 
 Member 1:
 Member 2:MIDHUN   VIJAYAN
-Member 3:
+Member 3: MOHAMMED ASHIQUE P
 
 Group_6
 --------
 
 Member 1:
-Member 2:
+Member 2:NIKHIL T N
 Member 3:
 
 Group_7
 --------
-
-Member 1:
-Member 2:
-Member 3:
+Member 1: Hosea Varghese Kalayil
+Member 2: JITHIN JOY
+Member 3: Kiran Raj
 
 Group_8
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1: Rahul R
+Member 2: Sarath M
+Member 3: 	
 
 Group_9
 --------
 
 Member 1:
 Member 2:
-Member 3:
+Member 3:Aneena Joseph 
 
 Group_10
 --------
 
-Member 1:
-Member 2:
+Member 1: Anisha Mary Francis
+Member 2: ANJANA E
 Member 3:
 
 Group_11
 --------
 
-Member 1:
-Member 2:
+Member 1: ANUSREE AJAYAN
+Member 2:ARCHANA K. MURALY
 Member 3:
 
 Group_12
 --------
 
 Member 1:
-Member 2:
-Member 3:
+Member 2:Aswathy Unnikrishnan
+Member 3: Aswini K S
 
 Group_13
 --------
 
-Member 1:
-Member 2:
+Member 1:Femi Francis
+Member 2:Glorina A Meledath
 Member 3:
 
 Group_14
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1:Indhu Sudhakaran
+Member 2:JAYA MARIAM JOSEPH
+Member 3:JITHISHNA T A
 
 Group_15
 --------
 
-Member 1:
-Member 2:
+Member 1:KEERTHI R
+Member 2:LEKSHMI MOHAN
 Member 3:
 
 Group_16
 --------
 
-Member 1:
-Member 2:
+Member 1:LIYA JOHN
+Member 2:MARY SHEMNA V.N
 Member 3:
 
 Group_17
 --------
 
-Member 1:
+Member 1:NASIYA NOUSHAD
 Member 2:
-Member 3:
+Member 3:Reshma Abraham
 
 Group_18
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1:SARANYA SASI
+Member 2:SHAMINI SREEKUMAR
+Member 3:SHIBY MARY THOMAS
 
 Group_19
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1:SREELAKSHMY P P
+Member 2: Sreelakshmy Remesh
+Member 3:SREERENJINI M
 
 Group_20
 --------
 
-Member 1:
-Member 2:
-Member 3:
+Member 1:Sruthy.B.Raj
+Member 2:syamily p s
+Member 3:Vandhana E R
 Member 4:
 
 Group_21
 --------
 
-Member 1:
+Member 1:Ann Priya Thomas
 Member 2:
-Member 3:
+Member 3:Gopika M
