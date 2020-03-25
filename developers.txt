@@ -88,7 +88,7 @@ Member 3:ARYAMOL A P
 Group_12
 --------
 
-Member 1:
+Member 1:Ashly Mohan
 Member 2:Aswathy Unnikrishnan
 Member 3: Aswini K S
 
