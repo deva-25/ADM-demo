@@ -145,7 +145,7 @@ Group_20
 --------
 
 Member 1:
-Member 2:syamily p s
+Member 2: syamily p s
 Member 3:
 Member 4:
 
