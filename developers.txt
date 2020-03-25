@@ -40,7 +40,7 @@ Group_5
 --------
 
 Member 1:
-Member 2:MIDHUN VIJAYAN
+Member 2:MIDHUN   VIJAYAN
 Member 3:
 
 Group_6
