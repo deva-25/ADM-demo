@@ -1,4 +1,4 @@
-thTeachers
+Teachers
 ********
 
 Teacher 1 : Tomsy Paul
