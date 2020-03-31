@@ -60,7 +60,7 @@ Member 3: Kiran Raj
 Group_8		Name				github username
 --------------------------------------------------------------------
 
-Member 1: Rahul R				27px
+Member 1: Rahul R
 Member 2: Sarath M
 Member 3: Sam Varghese  samvarghese-hub
 
