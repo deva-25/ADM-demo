@@ -61,7 +61,7 @@ Group_8		Name				github username
 --------------------------------------------------------------------
 
 Member 1: Rahul R				27px
-Member 2: Sarath M
+Member 2: Sarath M            Shiva-Sarath
 Member 3: Sam Varghese				samvarghese-hub
 
 Group_9		Name				github username
