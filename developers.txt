@@ -62,7 +62,7 @@ Group_8		Name				github username
 
 Member 1: Rahul R
 Member 2: Sarath M
-Member 3: Sam Varghese  samvarghese-hub
+Member 3: Sam Varghese
 
 Group_9		Name				github username
 --------------------------------------------------------------------
