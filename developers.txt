@@ -89,7 +89,7 @@ Group_12	Name				github username
 --------------------------------------------------------------------
 
 Member 1:Ashly Mohan
-Member 2:Aswathy Unnikrishnan
+Member 2:Aswathy Unnikrishnan                      Aswathy22
 Member 3: Aswini K S
 
 Group_13	Name				github username
