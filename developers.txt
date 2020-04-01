@@ -25,7 +25,7 @@ Group_3		Name				github username
 --------------------------------------------------------------------
 
 Member 1: ALBERT P BABU
-Member 2: ARUN K BABU
+Member 2: ARUN K BABU				arunkbabu90
 Member 3: ALBIN C SEBASTIAN
 Member 4: BOBIN MATHEW MURIKKATTU
 
