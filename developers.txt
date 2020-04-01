@@ -24,8 +24,9 @@ Member 3:AKHIL SUDHAN
 Group_3		Name				github username
 --------------------------------------------------------------------
 
-Member 1: ALBERT P BABU			        albertpallissery@gmail.com
-Member 2: ARUN K BABU
+
+Member 1: ALBERT P BABU			                    albert-p-babu
+Member 2: ARUN K BABU                           arunkbabu90
 Member 3: ALBIN C SEBASTIAN                     albincsebastian
 Member 4: BOBIN MATHEW MURIKKATTU               BobinMathew
 
