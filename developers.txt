@@ -17,9 +17,9 @@ Member 3: AJITH KUMAR M S
 Group_2		Name				github username
 --------------------------------------------------------------------
 
-Member 1: AKASH.M.VADHYAR
-Member 2:Akhil Balakrishnan    abakm
-Member 3:AKHIL SUDHAN		akhil07ak
+Member 1: AKASH.M.VADHYAR                          Akashmv06
+Member 2:Akhil Balakrishnan                       abakm
+Member 3:AKHIL SUDHAN		                 akhil07ak
 
 Group_3		Name				github username
 --------------------------------------------------------------------
