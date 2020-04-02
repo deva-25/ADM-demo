@@ -88,9 +88,10 @@ Member 3:ARYAMOL A P
 Group_12	Name				github username
 --------------------------------------------------------------------
 
-Member 1:Ashly Mohan
-Member 2:Aswathy Unnikrishnan
-Member 3: Aswini K S
+Member 1:Ashly Mohan                               ashly21                             
+Member 2:Aswathy Unnikrishnan                      Aswathy22
+Member 3: Aswini K S				   Aswini-achu
+
 
 Group_13	Name				github username
 --------------------------------------------------------------------
